@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "241866098594",
+    "project_id": "budget-app-complete",
+    "storage_bucket": "budget-app-complete.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241866098594:android:92ecb277e999dc5f5814fb",
+        "android_client_info": {
+          "package_name": "com.paulinaknop.budget_app_starting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD_jqRecDSa4gYLlBVJiEEAEo0CKH-qVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
